@@ -41,7 +41,7 @@ Web Application</span></a>
                           <div class="jumbotron">
                             <h4>Login Failure unknown username or a bad password</h4> <br/>
                             <p>Please Retry</p><br/>
-<button type="button" onclick="location.href='index'" class="btn btn-primary">Login Form</button>
+<button type="button" onclick="location.href=''" class="btn btn-primary">Login Form</button>
                             <p></p> 
                           </div>
                     </div>
