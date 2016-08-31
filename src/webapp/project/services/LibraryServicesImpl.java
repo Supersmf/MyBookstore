@@ -13,7 +13,7 @@ import webapp.project.model.LibraryModel;
 @Transactional
 public class LibraryServicesImpl implements LibraryServices 
 {
-    /* created by INDRAJIT MAURIYA 06-06-2016*/
+
     
     @Autowired
     private LibraryDao librarydao;

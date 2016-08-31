@@ -12,7 +12,7 @@ import webapp.project.model.LibraryModel;
 @Repository
 public class LibraryDaoImpl implements LibraryDao {
 
-    /* created by INDRAJIT MAURIYA 06-06-2016*/
+
     
     @Autowired
     private SessionFactory sessionFactory;
